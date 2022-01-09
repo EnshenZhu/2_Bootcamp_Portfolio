@@ -11,7 +11,7 @@
 
 ## <li>Project Purpose
 <p>
-    This project is going to build up a professional profolio for the employer to view my ability and make desicion whether I could fit the certain position</a>
+    This project is going to build up a professional profolio for the employer to view my ability and make desicion whether I could fit the certain position
 </p>
 
 </li>
@@ -33,18 +33,17 @@
 
 ## <li>About Content
 <p>
-    By far, this webpage is functioned as a demo for the advanced CSS display. As this webpage is still in the working progress, most of the contents have very limited length. Meanwhile, because of insufficient projects I have ever made, despite having different image styles, the links behind the four images in the 'Working Example' section are linked to one single project I made before.
+    By far, this webpage is functioned as a demo for the advanced CSS display. As this webpage is still in the working progress, most of the contents have very limited length. Meanwhile, because of insufficient projects I have ever made, despite having different image styles, the links behind the four images in the 'Working Example' section are linked to one single project I made before, which is a Code Refactor work for an existing webpage.
 </p></li>
 
 ## <li>Preview
-* <b>header and banner</b>
-<img src="assets\image_for_readme.md\header_and_banner.png" alt="header_and_banner.png">
+* <b>PC display (sampled as 1920*1080 screen</b>
+<img src="assets\snip_img\pc_display.png" alt="pc_display">
 
-* <b>contents(left column) and benefits(right column)</b>
-<img src="assets\image_for_readme.md\contents_and_benefits.png" alt="contents_and_benefits.png">
+* <b>Mobile display (sampled as IPhone X for 375*812 screen</b>
+<img src="assets\snip_img\iphone_dispaly.png" alt="iphone_display">
 
-* <b>footer</b>
-<img src="assets\image_for_readme.md\footer.png" alt="footer.png">
+
 </li>
 
 </ol>
